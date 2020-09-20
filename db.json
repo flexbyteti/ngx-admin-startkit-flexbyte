@@ -1,0 +1,120 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "email": "alexandre.carvalho@live.com",
+      "password": "$2a$10$yH3RRrvxtC4ReF57mJjT2O21enxKJ.P2h3gZB/3dXYnMAlEzlNPTO",
+      "id": 1
+    }
+  ],
+  "requestpassword": [
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 1
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 2
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 3
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 4
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 5
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 6
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 7
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 8
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 9
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 10
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 11
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 12
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 13
+    },
+    {
+      "email": "aluno04@email.com",
+      "id": 14
+    },
+    {
+      "email": "alexandre.carvalho@live.com",
+      "id": 15
+    }
+  ],
+  "resetpassword": [
+    {
+      "password": "11111",
+      "confirmPassword": "11111",
+      "id": 1
+    },
+    {
+      "password": "11111",
+      "confirmPassword": "11111",
+      "id": 2
+    },
+    {
+      "password": "12345",
+      "confirmPassword": "12345",
+      "id": 3
+    },
+    {
+      "password": "12345",
+      "confirmPassword": "111111111",
+      "id": 4
+    },
+    {
+      "password": "1111",
+      "confirmPassword": "1111",
+      "id": 5
+    },
+    {
+      "password": "11111",
+      "confirmPassword": "11111",
+      "id": 6
+    }
+  ]
+}
